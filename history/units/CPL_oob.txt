@@ -1,0 +1,53 @@
+RUS = {
+	value 150
+}
+AUS = {
+	value = 50
+}
+PRU = {
+	value = 75
+}
+
+leader = {
+	name = "Josef Chlopicki"
+	date = 1771.1.1
+	type = land
+	personality = bold
+	background = spoiled
+	prestige = 0.1
+}
+
+army = {
+	name = "Wojsko Polskie Krolestwa Kongresowego"
+	location = 706
+	regiment = {
+		name = "Guard and grenadier division"
+		type = guard
+		home = 706
+	}
+	regiment = {
+		name = "Guard cavalry division"
+		type = hussar
+		home = 706
+	}
+	regiment = {
+		name = "First infantry division"
+		type = regular
+		home = 708
+	}
+	regiment = {
+		name = "Second infantry division"
+		type = regular
+		home = 710
+	}
+	regiment = {
+		name = "Cavalry corps"
+		type = cavalry
+		home = 715
+	}
+	regiment = {
+		name= "Artillery brigade"
+		type = artillery
+		home = 715
+	}
+}

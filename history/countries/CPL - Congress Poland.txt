@@ -2,11 +2,13 @@ capital = 706
 primary_culture = polish
 religion = catholic
 government = hms_government
-plurality = 0.2
+plurality = 25.0
 nationalvalue = nv_liberty
 literacy = 0.6
 civilized = yes
 
+#GreaterPowers = prestige
+prestige = 10
 
 # Political reforms
 slavery = no_slavery
@@ -76,11 +78,12 @@ basic_chemistry = 1
 commerce_raiders = yes
 
 # Starting Consciousness
-consciousness = 3
+consciousness = 4
 nonstate_consciousness = 1
 
 schools = culture_tech_school
 
+oob = "CPL_oob.txt"
 1861.1.1 = {
 # Technologies
 	post_napoleonic_thought = 1
