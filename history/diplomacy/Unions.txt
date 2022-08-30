@@ -13,3 +13,11 @@ union = {
 	start_date = 1814.10.12
 	end_date = 1837.6.20
 }
+
+# Russia - Kingdom of Poland (Alexander I, Nickolas I)
+union = {
+	first = RUS
+	second = CPL
+	start_date = 1815.1.1
+	end_date = 1830.10.29
+}

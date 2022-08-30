@@ -1,6 +1,12 @@
 #Sphere of Influence
 
 #Europe
+CPL = {
+	value = 100
+	level = 5
+	influence_value = 0
+}
+
 FIN = {
 	value = 100
 	level = 5
